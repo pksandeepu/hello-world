@@ -6,3 +6,5 @@ How about this one.. Latest edit for GIT
 Checked out new branch from current branch
 
 Hello this is a update for feature branch
+
+This is a test for cherry picking the change - I will cherry pick this commit
