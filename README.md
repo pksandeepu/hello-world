@@ -6,3 +6,5 @@ How about this one.. Latest edit for GIT
 Checked out new branch from current branch
 
 Hello this is a update for feature branch
+
+now I'm going to make changes for feature branch changes
