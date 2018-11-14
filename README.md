@@ -5,4 +5,4 @@ Test this one
 How about this one.. Latest edit for GIT
 Checked out new branch from current branch
 
-changes for feature branch
+hello this is git commit-a after chagnes on feature branch
