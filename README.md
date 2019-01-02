@@ -19,3 +19,4 @@ Another commit on the same squash statement
 
 I want to squash three commits into one commit
 
+Hello this is next commit to test the rebase
