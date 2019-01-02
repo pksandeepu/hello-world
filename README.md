@@ -5,4 +5,5 @@ Test this one
 How about this one.. Latest edit for GIT
 Checked out new branch from current branch
 
-changes for feature branch
+Hello this is a update for feature branch
+
